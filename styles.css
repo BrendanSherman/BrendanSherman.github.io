@@ -1,0 +1,117 @@
+div, body, h1, h2, h3, h4, p{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    border: 0;
+}
+
+body{
+    width: 99.6%;
+    padding-right: 5px;
+    height:81%;
+}
+
+.icon{
+    height: 75px;
+    width: 75px;
+    padding-left: 10px;
+}
+
+.icon.sc{
+    width: 110px;
+    margin-left: -10px;
+}
+h2{
+    text-align: center;
+}
+
+
+.message{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.summary{
+    text-indent: 2.5%;
+    margin-left: 27%;
+    margin-right: 10px;
+}
+p{
+    margin-left: 5%;
+}
+html{
+    font-family: "BioRhyme", serif;
+}
+
+.header{
+    margin-top: -.2%;
+    background-image: url(images/Banner-Background-005.jpg);
+    width:99.6%;
+    height:100px;
+    border-bottom: 5px solid darkslategray;
+    border-right: 5px solid darkslategray;
+    border-left: 5px solid darkslategray;
+}
+.sidebar{
+    margin-left: -.4%;
+    background-color:lavender;
+    width:25%;
+    height: 101.5%;
+    border: 5px solid darkslategrey;
+    border-left: 10px solid darkslategray;
+    border-top: 2px;
+    float:left;
+}
+
+.main{
+    background-image: url(images/cloudy-day.png);
+    width:100%;
+    height: 101.6%;
+    background-color:cadetblue;
+    border-bottom:5px solid darkslategray;
+    border-right: 5px solid darkslategray;
+}
+
+.logo{
+    padding-top: 10px;
+    font-weight: lighter;
+    text-align: center;
+}
+.mainlink{
+    color:black;
+    height: 20%;
+    text-decoration: none;
+}
+.underline{
+    align-items:center;
+    width: 375px;
+    height: 25px;
+    display: block;
+    margin: 0 auto;
+}
+
+ol{
+    padding-left: 25px;
+}
+
+li{
+    padding-bottom: 0;
+}
+.list{
+    margin-top: 0;
+    list-style-type: disc;
+    text-indent: -5px;
+    margin-right: 10px;
+}
+
+.text{
+    padding-left: 20px;
+    font-family: 'BioRhyme', serif;
+}
+
+.info{
+    margin-left: 15%;
+}
+
+.Contact{
+    margin-left: 10%;
+}
