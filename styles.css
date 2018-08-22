@@ -86,3 +86,8 @@ html{
     display: inline-block;
     padding-left: 4%;
 }
+
+.project{
+    padding-bottom: 2%;
+    height: 100px;
+}
